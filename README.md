@@ -23,7 +23,7 @@ The compilation contains mods for creating your own game characters, as well as 
 
 ## Did you find the problem? 👨🏻‍💻
 Found a problem, want to ask or suggest something?
-Feel free to contact [Issue tracker](https://github.com/EVOR-Lab/SpeedyMC3-2023/issues)
+Feel free to contact [Issue tracker](https://github.com/EVOR-Lab/SpeedyMC3/issues)
 
 
 
